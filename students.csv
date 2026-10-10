@@ -1,0 +1,13 @@
+student_id,name,department,cgpa,attendance,backlogs,lms_completion,aptitude_score,coding_score,mock_interview,certifications,engagement_score
+101,Aarav,CSE,8.5,92,0,95,85,88,82,4,90
+102,Diya,CSE,6.2,58,3,45,40,35,38,1,30
+103,Rohan,AIML,9.1,95,0,98,92,94,90,6,95
+104,Meera,AIML,7.8,78,1,75,65,70,60,3,70
+105,Arjun,ECE,6.8,65,2,55,48,42,45,1,40
+106,Ananya,CSE,8.9,88,0,90,72,68,65,5,85
+107,Kiran,AIML,7.1,72,1,68,80,75,78,2,65
+108,Sneha,ECE,9.3,97,0,96,90,85,92,7,95
+109,Vikram,CSE,5.9,52,4,35,30,25,28,0,20
+110,Priya,AIML,8.2,84,0,85,78,82,75,4,80
+111, Rahul,ECE,7.5,80,1,70,55,60,58,2,60
+112, Kavya,CSE,6.5,62,2,50,75,78,72,1,45
